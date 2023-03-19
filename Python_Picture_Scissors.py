@@ -32,7 +32,7 @@ def image_magic(image, name=''):
 # %%
 # 載入圖片
 image = Image.open(
-    '/Users/dodsonhuang/Desktop/Dodson_capture_the_decadent_beauty_of_a_sophisticated_chocolate_1e6d9f30-f309-4ecd-939f-c17d51014476.png')
+    'capture_the_decadent_beauty_of_a_sophisticated_chocolate_1e6d9f30-f309-4ecd-939f-c17d51014476.png')
 
 image_magic(image, name='chocolate_cake')
 
